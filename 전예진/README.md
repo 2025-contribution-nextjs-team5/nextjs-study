@@ -3,3 +3,4 @@
 | 제목   | 블로그 주소 
 |---------------------------------------------------|----------------------------------------------------|
 | Next.js에서 렌더링 방식 | [Next.js에서의 렌더링 방식](https://dpwls02142.github.io/posts/Next-js%EC%97%90%EC%84%9C%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81/) |
+| TypeScript 기초 | [TypeScript 기초](https://dpwls02142.github.io/posts/typescript-%EA%B8%B0%EC%B4%88/) |
